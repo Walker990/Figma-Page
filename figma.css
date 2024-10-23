@@ -1,0 +1,28 @@
+.d-flex{
+    color: #61DAFB;
+
+}
+
+div > h1{
+    width: 424px;
+    height: 41px;
+    margin-top: 148px;
+    margin-left: 27px;
+}
+
+ul li{
+    justify-content: space-around;
+}
+
+ul li{
+    margin: 2rem;
+}
+
+@media(max-width:768px){
+  div > h1{
+        width: 400px;
+        height: 30px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+}
